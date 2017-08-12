@@ -1,0 +1,29 @@
+-pages-
+LOGIN
+ forms
+  email
+  password
+ buttons
+  login
+  sign up
+SIGN UP
+ email
+ phone number
+ password
+  
+HOME
+ buttons 
+  add item
+  delete item
+  share item
+ view of items in list
+
+EDIT 
+ buttons
+  save
+ forms
+  Title
+  Log
+  target date
+  
+
